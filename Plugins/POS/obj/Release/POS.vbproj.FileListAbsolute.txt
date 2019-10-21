@@ -1,0 +1,18 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Plugins\POS\POS.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Salling.Plugins.MainDashboard.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Salling.Plugins.PointOfSale.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Salling.Plugins.Settings.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.dll.licenses
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Plugins\POS\POS.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Salling.Plugins.MainDashboard.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Salling.Plugins.PointOfSale.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\Salling.Plugins.Settings.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.dll.licenses
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Release\POS.dll

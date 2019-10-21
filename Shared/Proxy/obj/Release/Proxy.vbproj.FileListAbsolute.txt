@@ -1,0 +1,10 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Proxy.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Proxy.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Proxy.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Proxy.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Proxy.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Proxy.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Proxy.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Proxy\obj\Release\Proxy.dll

@@ -1,0 +1,10 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Salling.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Salling.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Salling.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Salling.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Salling.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Salling.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Salling.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Salling\obj\Release\Salling.dll

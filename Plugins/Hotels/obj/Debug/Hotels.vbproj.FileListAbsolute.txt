@@ -1,0 +1,9 @@
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Plugins\Hotels\Hotels.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Plugins\Hotels\Hotels.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\Hotels\obj\Debug\Hotels.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\Hotels\obj\Debug\Salling.Plugins.MainDashboard.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\Hotels\obj\Debug\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\Hotels\obj\Debug\Hotels.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\Hotels\obj\Debug\Hotels.dll.licenses
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\Hotels\obj\Debug\Hotels.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\Hotels\obj\Debug\Hotels.pdb

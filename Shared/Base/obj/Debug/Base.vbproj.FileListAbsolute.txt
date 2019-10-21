@@ -1,0 +1,12 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\Base.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\Base.pdb
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Base.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Base.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Base.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Base.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Base.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Base.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Base.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Base\obj\Debug\Base.pdb

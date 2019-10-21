@@ -1,0 +1,2 @@
+[Files]
+Source: "C:\Program Files (x86)\DevExpress 2011.2\Components\Bin\Framework\DevExpress.BonusSkins.v11.2.dll"; DestDir: "{app}"; StrongAssemblyName: "Application Crystal Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=48d60606109a2257, ProcessorArchitecture=MSIL"; Flags: gacinstall ignoreversion

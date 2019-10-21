@@ -1,0 +1,12 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\Devices.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\Devices.pdb
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Devices.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Devices.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Devices.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Devices.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Devices.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Devices.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Devices.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Devices\obj\Debug\Devices.pdb

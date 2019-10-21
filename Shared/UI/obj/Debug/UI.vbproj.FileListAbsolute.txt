@@ -1,0 +1,32 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\UI.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\UI.pdb
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.Config.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.Dashboard.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.DataEntry.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.ListView.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.Login.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.MainForm.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.PluginDashboard.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.FrmConfigurations.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.dll.licenses
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\UI.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\UI.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.Config.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.Dashboard.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.DataEntry.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.ListView.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.Login.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.MainForm.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.PluginDashboard.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\Salling.UI.FrmConfigurations.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.dll.licenses
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\UI\obj\Debug\UI.pdb

@@ -1,0 +1,60 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\ui\bar.psd
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\Apache License.txt
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\login.jpg
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\logo.jpg
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\logo\settings.png
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\Plugins\default.jpg
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\Plugins\hotels.jpg
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\ui\1.png
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\ui\bar.png
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\ui\top.png
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Bold.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-BoldItalic.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-ExtraBold.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-ExtraBoldItalic.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Italic.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Light.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-LightItalic.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Regular.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Semibold.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-SemiboldItalic.ttf
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\SallingHost.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.SallingHost.Login.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.SallingHost.SplashScreen.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.SallingHost.FrmMain.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\SallingHost.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Salling.exe.config
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Salling.exe
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.exe.licenses
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.exe
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\SallingHost.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.SallingHost.Login.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.SallingHost.SplashScreen.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.SallingHost.FrmMain.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\SallingHost.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.exe.licenses
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\ui\bar.psd
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\Apache License.txt
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\login.jpg
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\logo.jpg
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\logo\settings.png
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\Plugins\default.jpg
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\Plugins\hotels.jpg
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\ui\1.png
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\ui\bar.png
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\ui\top.png
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Bold.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-BoldItalic.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-ExtraBold.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-ExtraBoldItalic.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Italic.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Light.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-LightItalic.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Regular.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-Semibold.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Assets\fonts\OpenSans-SemiboldItalic.ttf
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Salling.exe.config
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Salling.exe
+C:\Users\Ahmed\Desktop\VB.NET\Salling\ApplicationHost\SallingHost\obj\Release\Salling.exe

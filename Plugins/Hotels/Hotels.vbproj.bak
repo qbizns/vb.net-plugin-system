@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E32A9672-0A6F-432A-A5F8-10400089E3E9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>Hotels</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\..\Salling-Binary\Plugins\Hotels\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\Salling-Release\Plugins\Hotels\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enumeration\Charges.vb" />
+    <Compile Include="Enumeration\ExchangeRates.vb" />
+    <Compile Include="Enumeration\Tax.vb" />
+    <Compile Include="Enumeration\VoucherNoGenerationDetails.vb" />
+    <Compile Include="MainDashboard.Designer.vb">
+      <DependentUpon>MainDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ORMCode\Accounts.Designer.vb">
+      <DependentUpon>Accounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Accounts.vb" />
+    <Compile Include="ORMCode\BusinessSources.Designer.vb">
+      <DependentUpon>BusinessSources.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\BusinessSources.vb" />
+    <Compile Include="ORMCode\BusinessSourceTypes.Designer.vb">
+      <DependentUpon>BusinessSourceTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\BusinessSourceTypes.vb" />
+    <Compile Include="ORMCode\CardTypes.Designer.vb">
+      <DependentUpon>CardTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\CardTypes.vb" />
+    <Compile Include="ORMCode\CashDrawer.Designer.vb">
+      <DependentUpon>CashDrawer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\CashDrawer.vb" />
+    <Compile Include="ORMCode\Charter.Designer.vb">
+      <DependentUpon>Charter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Charter.vb" />
+    <Compile Include="ORMCode\CityLedgerTypes.Designer.vb">
+      <DependentUpon>CityLedgerTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\CityLedgerTypes.vb" />
+    <Compile Include="ORMCode\Countries.Designer.vb">
+      <DependentUpon>Countries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Countries.vb" />
+    <Compile Include="ORMCode\DoNoRent.Designer.vb">
+      <DependentUpon>DoNoRent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DoNoRent.vb" />
+    <Compile Include="ORMCode\ExchangeRates.Designer.vb">
+      <DependentUpon>ExchangeRates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ExchangeRates.vb" />
+    <Compile Include="ORMCode\ExtraChargeCategories.Designer.vb">
+      <DependentUpon>ExtraChargeCategories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ExtraChargeCategories.vb" />
+    <Compile Include="ORMCode\ExtraChargeDeposit.Designer.vb">
+      <DependentUpon>ExtraChargeDeposit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ExtraChargeDeposit.vb" />
+    <Compile Include="ORMCode\ExtraChargePackage.Designer.vb">
+      <DependentUpon>ExtraChargePackage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ExtraChargePackage.vb" />
+    <Compile Include="ORMCode\ExtraCharges.Designer.vb">
+      <DependentUpon>ExtraCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ExtraCharges.vb" />
+    <Compile Include="ORMCode\Floors.Designer.vb">
+      <DependentUpon>Floors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Floors.vb" />
+    <Compile Include="ORMCode\FollowUpTypes.Designer.vb">
+      <DependentUpon>FollowUpTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\FollowUpTypes.vb" />
+    <Compile Include="ORMCode\GeneralXpObject1.Designer.vb">
+      <DependentUpon>GeneralXpObject1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\GeneralXpObject1.vb" />
+    <Compile Include="ORMCode\GRMMasters.Designer.vb">
+      <DependentUpon>GRMMasters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\GRMMasters.vb" />
+    <Compile Include="ORMCode\GuestIdentity.Designer.vb">
+      <DependentUpon>GuestIdentity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\GuestIdentity.vb" />
+    <Compile Include="ORMCode\GuestNotes.Designer.vb">
+      <DependentUpon>GuestNotes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\GuestNotes.vb" />
+    <Compile Include="ORMCode\MarketPlace.Designer.vb">
+      <DependentUpon>MarketPlace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\MarketPlace.vb" />
+    <Compile Include="ORMCode\Masters.Designer.vb">
+      <DependentUpon>Masters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Masters.vb" />
+    <Compile Include="ORMCode\MealPlan.Designer.vb">
+      <DependentUpon>MealPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\MealPlan.vb" />
+    <Compile Include="ORMCode\Models.Designer.vb">
+      <DependentUpon>Models.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Models.vb" />
+    <Compile Include="ORMCode\NonRentalObjects.Designer.vb">
+      <DependentUpon>NonRentalObjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\NonRentalObjects.vb" />
+    <Compile Include="ORMCode\PropertyManagement.Designer.vb">
+      <DependentUpon>PropertyManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\PropertyManagement.vb" />
+    <Compile Include="ORMCode\RateTypes.Designer.vb">
+      <DependentUpon>RateTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RateTypes.vb" />
+    <Compile Include="ORMCode\Resons.Designer.vb">
+      <DependentUpon>Resons.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Resons.vb" />
+    <Compile Include="ORMCode\RevenueBreakDowns.Designer.vb">
+      <DependentUpon>RevenueBreakDowns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RevenueBreakDowns.vb" />
+    <Compile Include="ORMCode\RoomAmenities.Designer.vb">
+      <DependentUpon>RoomAmenities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RoomAmenities.vb" />
+    <Compile Include="ORMCode\RoomOperations.Designer.vb">
+      <DependentUpon>RoomOperations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RoomOperations.vb" />
+    <Compile Include="ORMCode\RoomOwner.Designer.vb">
+      <DependentUpon>RoomOwner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RoomOwner.vb" />
+    <Compile Include="ORMCode\RoomSize.Designer.vb">
+      <DependentUpon>RoomSize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RoomSize.vb" />
+    <Compile Include="ORMCode\RoomStatusColors.Designer.vb">
+      <DependentUpon>RoomStatusColors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RoomStatusColors.vb" />
+    <Compile Include="ORMCode\RoomTypes.Designer.vb">
+      <DependentUpon>RoomTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RoomTypes.vb" />
+    <Compile Include="ORMCode\Seasons.Designer.vb">
+      <DependentUpon>Seasons.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Seasons.vb" />
+    <Compile Include="ORMCode\SeasonTypes.Designer.vb">
+      <DependentUpon>SeasonTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\SeasonTypes.vb" />
+    <Compile Include="ORMCode\StatementType.Designer.vb">
+      <DependentUpon>StatementType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\StatementType.vb" />
+    <Compile Include="ORMCode\Stations.Designer.vb">
+      <DependentUpon>Stations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Stations.vb" />
+    <Compile Include="ORMCode\SubBusinessSource.Designer.vb">
+      <DependentUpon>SubBusinessSource.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\SubBusinessSource.vb" />
+    <Compile Include="ORMCode\TaxInfo.Designer.vb">
+      <DependentUpon>TaxInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\TaxInfo.vb" />
+    <Compile Include="ORMCode\TransportationSchedual.Designer.vb">
+      <DependentUpon>TransportationSchedual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\TransportationSchedual.vb" />
+    <Compile Include="ORMCode\Transports.Designer.vb">
+      <DependentUpon>Transports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Transports.vb" />
+    <Compile Include="Start.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MainDashboard.resx">
+      <DependentUpon>MainDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ORM.xpo" />
+    <None Include="ORM.xpo.diagram">
+      <DependentUpon>ORM.xpo</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Base\Base.vbproj">
+      <Project>{46625741-b648-455e-a340-e49612b8dd0e}</Project>
+      <Name>Base</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared\Devices\Devices.vbproj">
+      <Project>{90eec00e-e89a-4557-b9aa-1a7476f13073}</Project>
+      <Name>Devices</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared\License\License.vbproj">
+      <Project>{61d2a6e4-3f0c-4360-845a-c65e202d827e}</Project>
+      <Name>License</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared\Proxy\Proxy.vbproj">
+      <Project>{aec7f1a4-b079-4365-bbcf-01adb8355d0d}</Project>
+      <Name>Proxy</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared\Report\Report.vbproj">
+      <Project>{5291f30c-99ad-4129-92a6-6f398e470156}</Project>
+      <Name>Report</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared\Salling\Salling.vbproj">
+      <Project>{c9d859b7-0b19-41a8-b590-b86650f5ca93}</Project>
+      <Name>Salling</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared\Security\Security.vbproj">
+      <Project>{3b76d58a-25da-4a25-9131-a66536031efa}</Project>
+      <Name>Security</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Shared\UI\UI.vbproj">
+      <Project>{03755b1e-7426-4a23-b2b1-c926eead95f4}</Project>
+      <Name>UI</Name>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

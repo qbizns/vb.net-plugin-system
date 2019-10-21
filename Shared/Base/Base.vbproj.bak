@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{46625741-B648-455E-A340-E49612B8DD0E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>Base</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\..\Salling-Binary\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\Salling-Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ORMCode\AccountingPeriods.Designer.vb">
+      <DependentUpon>AccountingPeriods.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\AccountingPeriods.vb" />
+    <Compile Include="ORMCode\BankGroups.Designer.vb">
+      <DependentUpon>BankGroups.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\BankGroups.vb" />
+    <Compile Include="ORMCode\Banks.Designer.vb">
+      <DependentUpon>Banks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Banks.vb" />
+    <Compile Include="ORMCode\BudgetItems.Designer.vb">
+      <DependentUpon>BudgetItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\BudgetItems.vb" />
+    <Compile Include="ORMCode\Budgets.Designer.vb">
+      <DependentUpon>Budgets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Budgets.vb" />
+    <Compile Include="ORMCode\BusinessProcesses.Designer.vb">
+      <DependentUpon>BusinessProcesses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\BusinessProcesses.vb" />
+    <Compile Include="ORMCode\ChartOfAccount.Designer.vb">
+      <DependentUpon>ChartOfAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ChartOfAccount.vb" />
+    <Compile Include="ORMCode\Configurations.Designer.vb">
+      <DependentUpon>Configurations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Configurations.vb" />
+    <Compile Include="ORMCode\ContactPayments.Designer.vb">
+      <DependentUpon>ContactPayments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ContactPayments.vb" />
+    <Compile Include="ORMCode\CostCenterAccounts.Designer.vb">
+      <DependentUpon>CostCenterAccounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\CostCenterAccounts.vb" />
+    <Compile Include="ORMCode\CostCenters.Designer.vb">
+      <DependentUpon>CostCenters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\CostCenters.vb" />
+    <Compile Include="ORMCode\Currencies.Designer.vb">
+      <DependentUpon>Currencies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Currencies.vb" />
+    <Compile Include="ORMCode\CurrencyUnit.Designer.vb">
+      <DependentUpon>CurrencyUnit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\CurrencyUnit.vb" />
+    <Compile Include="ORMCode\DocumentApprovals.Designer.vb">
+      <DependentUpon>DocumentApprovals.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DocumentApprovals.vb" />
+    <Compile Include="ORMCode\DocumentAttachments.Designer.vb">
+      <DependentUpon>DocumentAttachments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DocumentAttachments.vb" />
+    <Compile Include="ORMCode\DocumentComments.Designer.vb">
+      <DependentUpon>DocumentComments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DocumentComments.vb" />
+    <Compile Include="ORMCode\DocumentDetails.Designer.vb">
+      <DependentUpon>DocumentDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DocumentDetails.vb" />
+    <Compile Include="ORMCode\DocumentEvents.Designer.vb">
+      <DependentUpon>DocumentEvents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DocumentEvents.vb" />
+    <Compile Include="ORMCode\DocumentProcesses.Designer.vb">
+      <DependentUpon>DocumentProcesses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DocumentProcesses.vb" />
+    <Compile Include="ORMCode\Documents.Designer.vb">
+      <DependentUpon>Documents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Documents.vb" />
+    <Compile Include="ORMCode\DocumentTypes.Designer.vb">
+      <DependentUpon>DocumentTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\DocumentTypes.vb" />
+    <Compile Include="ORMCode\FormData.Designer.vb">
+      <DependentUpon>FormData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\FormData.vb" />
+    <Compile Include="ORMCode\GridLayouts.Designer.vb">
+      <DependentUpon>GridLayouts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\GridLayouts.vb" />
+    <Compile Include="ORMCode\Installment.Designer.vb">
+      <DependentUpon>Installment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Installment.vb" />
+    <Compile Include="ORMCode\Items.Designer.vb">
+      <DependentUpon>Items.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Items.vb" />
+    <Compile Include="ORMCode\ItemUOM.Designer.vb">
+      <DependentUpon>ItemUOM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\ItemUOM.vb" />
+    <Compile Include="ORMCode\Payments.Designer.vb">
+      <DependentUpon>Payments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Payments.vb" />
+    <Compile Include="ORMCode\PaymentStatus.Designer.vb">
+      <DependentUpon>PaymentStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\PaymentStatus.vb" />
+    <Compile Include="ORMCode\PaymentTypes.Designer.vb">
+      <DependentUpon>PaymentTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\PaymentTypes.vb" />
+    <Compile Include="ORMCode\Permissions.Designer.vb">
+      <DependentUpon>Permissions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Permissions.vb" />
+    <Compile Include="ORMCode\Plugins.Designer.vb">
+      <DependentUpon>Plugins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Plugins.vb" />
+    <Compile Include="ORMCode\PointOfSales.Designer.vb">
+      <DependentUpon>PointOfSales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\PointOfSales.vb" />
+    <Compile Include="ORMCode\Roles.Designer.vb">
+      <DependentUpon>Roles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Roles.vb" />
+    <Compile Include="ORMCode\RoleTaskPermessions.Designer.vb">
+      <DependentUpon>RoleTaskPermessions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\RoleTaskPermessions.vb" />
+    <Compile Include="ORMCode\SecuritieTypes.Designer.vb">
+      <DependentUpon>SecuritieTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\SecuritieTypes.vb" />
+    <Compile Include="ORMCode\Sessions.Designer.vb">
+      <DependentUpon>Sessions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Sessions.vb" />
+    <Compile Include="ORMCode\SystemUsers.Designer.vb">
+      <DependentUpon>SystemUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\SystemUsers.vb" />
+    <Compile Include="ORMCode\TaskPermissions.Designer.vb">
+      <DependentUpon>TaskPermissions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\TaskPermissions.vb" />
+    <Compile Include="ORMCode\Tasks.Designer.vb">
+      <DependentUpon>Tasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Tasks.vb" />
+    <Compile Include="ORMCode\UserRoles.Designer.vb">
+      <DependentUpon>UserRoles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\UserRoles.vb" />
+    <Compile Include="ORMCode\VoucherTypes.Designer.vb">
+      <DependentUpon>VoucherTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\VoucherTypes.vb" />
+    <Compile Include="ORMCode\Warehouse.Designer.vb">
+      <DependentUpon>Warehouse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ORMCode\Warehouse.vb" />
+    <Compile Include="XPOUtils.vb" />
+    <Compile Include="XPO.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ORM.xpo">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ORM.xpo.diagram">
+      <DependentUpon>ORM.xpo</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

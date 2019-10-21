@@ -1,0 +1,12 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\License.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Binary\License.pdb
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\License\obj\Debug\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\License\obj\Debug\License.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\License\obj\Debug\License.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\License\obj\Debug\License.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\License.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\License.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\License\obj\Debug\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\License\obj\Debug\License.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\License\obj\Debug\License.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\License\obj\Debug\License.pdb

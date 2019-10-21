@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Plugins\POS\POS.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Binary\Plugins\POS\POS.pdb
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\Salling.Plugins.MainDashboard.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\Salling.Plugins.PointOfSale.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\Salling.Plugins.Settings.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\POS.dll.licenses
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\POS.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Plugins\POS\obj\Debug\POS.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Devices.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Devices\obj\Release\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Devices\obj\Release\Devices.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Devices\obj\Release\Devices.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Devices.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Devices\obj\Release\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Devices\obj\Release\Devices.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Devices\obj\Release\Devices.dll

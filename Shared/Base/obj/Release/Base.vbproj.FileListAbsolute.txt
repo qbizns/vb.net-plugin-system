@@ -1,0 +1,8 @@
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling-Release\Base.dll
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Base\obj\Release\Resources.resources
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Base\obj\Release\Base.vbproj.GenerateResource.Cache
+C:\Users\Ahmed N. Galal\Desktop\VB.NET\Salling\Shared\Base\obj\Release\Base.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling-Release\Base.dll
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Base\obj\Release\Resources.resources
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Base\obj\Release\Base.vbproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\VB.NET\Salling\Shared\Base\obj\Release\Base.dll
